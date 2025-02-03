@@ -24,7 +24,7 @@
         "stats": {
             "since": "December 02nd, 2010",
             "changesets": {
-                "total": 3124248,
+                "total": 3130803,
                 "belgium": 67171
             }
         }
@@ -39,8 +39,8 @@
         "stats": {
             "since": "April 09th, 2012",
             "changesets": {
-                "total": 1118258,
-                "belgium": 1008590
+                "total": 1119659,
+                "belgium": 1009761
             }
         }
     },
@@ -69,8 +69,8 @@
         "stats": {
             "since": "June 30th, 2012",
             "changesets": {
-                "total": 3070707,
-                "belgium": 2953800
+                "total": 3073692,
+                "belgium": 2956190
             }
         }
     },
@@ -84,8 +84,8 @@
         "stats": {
             "since": "September 14th, 2008",
             "changesets": {
-                "total": 1143843,
-                "belgium": 513743
+                "total": 1144328,
+                "belgium": 513988
             }
         }
     },
@@ -99,7 +99,7 @@
         "stats": {
             "since": "April 16th, 2009",
             "changesets": {
-                "total": 1879856,
+                "total": 1879895,
                 "belgium": 958173
             }
         }
@@ -144,8 +144,8 @@
         "stats": {
             "since": "March 27th, 2011",
             "changesets": {
-                "total": 1668124,
-                "belgium": 1616016
+                "total": 1668255,
+                "belgium": 1616147
             }
         }
     },
@@ -159,8 +159,8 @@
         "stats": {
             "since": "August 17th, 2012",
             "changesets": {
-                "total": 633502,
-                "belgium": 616253
+                "total": 634704,
+                "belgium": 617455
             }
         }
     },
@@ -276,23 +276,8 @@
         "stats": {
             "since": "April 13th, 2016",
             "changesets": {
-                "total": 937118,
-                "belgium": 874931
-            }
-        }
-    },
-    {
-        "name": "Pieter Fiers",
-        "first_name": "Pieter",
-        "last_name": "Fiers",
-        "username": "pfiers",
-        "location": "Schiplaken",
-        "timestamp": "2017-11-28T15:23:48+00:00",
-        "stats": {
-            "since": "April 08th, 2016",
-            "changesets": {
-                "total": 140049,
-                "belgium": 122935
+                "total": 937215,
+                "belgium": 875028
             }
         }
     },
@@ -321,7 +306,7 @@
         "stats": {
             "since": "May 10th, 2012",
             "changesets": {
-                "total": 6437,
+                "total": 6438,
                 "belgium": 5569
             }
         }
@@ -351,8 +336,8 @@
         "stats": {
             "since": "May 11th, 2010",
             "changesets": {
-                "total": 119668,
-                "belgium": 114820
+                "total": 120067,
+                "belgium": 115215
             }
         }
     },
@@ -405,8 +390,8 @@
         "stats": {
             "since": "December 18th, 2022",
             "changesets": {
-                "total": 2999797,
-                "belgium": 2930231
+                "total": 3545100,
+                "belgium": 3475528
             }
         }
     },
@@ -420,8 +405,8 @@
         "stats": {
             "since": "October 11th, 2012",
             "changesets": {
-                "total": 129608,
-                "belgium": 92326
+                "total": 129639,
+                "belgium": 92357
             }
         }
     },
@@ -435,8 +420,8 @@
         "stats": {
             "since": "March 08th, 2022",
             "changesets": {
-                "total": 1236,
-                "belgium": 1217
+                "total": 1260,
+                "belgium": 1241
             }
         }
     },
